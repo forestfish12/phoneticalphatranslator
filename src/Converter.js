@@ -12,7 +12,6 @@ const Converter = () => {
   
   return (
     <>
-      {/* <input type='text' value={input} onChange={handleChange} /> */}
       <textarea 
         placeholder="Enter phrase to translate..."
         className="input-area" 

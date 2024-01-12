@@ -34,7 +34,9 @@ const alphaList = {
   '6': 'Six',
   '7': 'Seven',
   '8': 'Eight',
-  '9': 'Nine'
+  '9': 'Nine',
+  ' ': 'SPACE',
+  '\n': '\n'
 }
 
 export default alphaList;
